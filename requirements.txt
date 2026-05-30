@@ -1,0 +1,10 @@
+# Вимоги
+numpy
+pandas
+librosa
+scikit-learn
+matplotlib
+seaborn
+tqdm
+joblib
+gradio
